@@ -4,6 +4,7 @@ var
     config = require('./config');
 
 var Twitter = new twit(config);
+var TwitterBot = require(‘node-twitterbot’).TwitterBot;
 
 // RETWEET BOT ==========================
 
