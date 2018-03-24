@@ -1,0 +1,23 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "I am a bot that helps to favorite and retweet wikimedia related tweets",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "perper2014"
+  ],
+  "author": "Rosalieper",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
+
