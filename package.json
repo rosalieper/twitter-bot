@@ -1,5 +1,5 @@
 {
-  "name": "twitter-bot",
+  "name": "perside-twitter-bot",
   "version": "1.0.0",
   "description": "I am a bot that helps to favorite and retweet wikimedia related tweets",
   "main": "bot.js",
